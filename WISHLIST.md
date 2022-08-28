@@ -1,0 +1,5 @@
+- status bar:
+  - group workspaces by display
+  - reorder workspace numbers based on LTR order
+- window nav:
+  - swipe to rotate through workspaces? idk how that would work with multidisplays though
